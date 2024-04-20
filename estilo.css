@@ -1,0 +1,78 @@
+body {
+    background-color: #f7f4f1;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.barraSuperior {
+    background-color: #e10600;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.logo {
+    padding: 1%;
+}
+
+.logoLeft {
+    height: 64px;
+}
+
+.logoRight {
+    height: 36px;
+}
+
+.titulo {
+    color: white;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+table {
+    width: 75%;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    background-color: #fff;
+    padding: 2%;
+}
+
+th {
+    font-size: 42px;
+    padding-bottom: 24px;
+}
+
+.th1 {
+    font-size: 16px;
+    padding: 1.5%;
+    color: gray;
+    font-weight: lighter;
+}
+
+.tr1 {
+    background-color: #f4f4f4;
+}
+
+td {
+    padding: 1.5%;
+    color: #171717;
+    align-items: center;
+}
+
+.logoe {
+    width: 3rem;
+    height: 2rem;
+}
+
+.equipes {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.celulaEquipes {
+    padding: 0;
+    padding-left: 2%;
+    padding-right: 2%;
+}
